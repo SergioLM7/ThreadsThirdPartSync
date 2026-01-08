@@ -1,4 +1,4 @@
-package sincronizacion_hilos;
+package problema_sincronizacion_hilos;
 
 public class Main {
     public static void main(String[] args) {

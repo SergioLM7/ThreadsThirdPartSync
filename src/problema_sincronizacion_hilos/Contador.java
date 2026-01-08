@@ -1,4 +1,4 @@
-package sincronizacion_hilos;
+package problema_sincronizacion_hilos;
 
 public class Contador implements Runnable {
     public int contador = 0;
